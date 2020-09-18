@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
 
 	title = 'demo';
-	selected_item: number;
+	selected_item = 0;
 
 	receiveItem($event) {
 		this.selected_item = $event;

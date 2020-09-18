@@ -8563,6 +8563,9 @@ webvowl.app =
 					json = {
 					  "_comment" : "Created with OWL2VOWL (version 0.3.7), http://vowl.visualdataweb.org",
 					  "header" : {
+							"title": {
+								"undefined": "Explosion"
+							},
 					    "languages" : [ "undefined" ],
 					    "baseIris" : [ "http://www.w3.org/2000/01/rdf-schema", "http://www.semanticweb.org/joeri/ontologies/2020/2/GTD-bombings", "http://www.w3.org/2001/XMLSchema" ],
 					    "prefixList" : {
@@ -8989,6 +8992,9 @@ webvowl.app =
 					json = {
 					  "_comment" : "Created with OWL2VOWL (version 0.3.7), http://vowl.visualdataweb.org",
 					  "header" : {
+							"title": {
+								"undefined": "First reports"
+							},
 					    "languages" : [ "undefined" ],
 					    "baseIris" : [ "http://www.w3.org/2000/01/rdf-schema", "http://www.semanticweb.org/joeri/ontologies/2020/2/GTD-bombings", "http://www.w3.org/2001/XMLSchema" ],
 					    "prefixList" : {
@@ -9735,6 +9741,9 @@ webvowl.app =
 					json = {
 					  "_comment" : "Created with OWL2VOWL (version 0.3.7), http://vowl.visualdataweb.org",
 					  "header" : {
+							"title": {
+								"undefined": "Further information"
+							},
 					    "languages" : [ "undefined" ],
 					    "baseIris" : [ "http://www.w3.org/2000/01/rdf-schema", "http://www.semanticweb.org/joeri/ontologies/2020/2/GTD-bombings", "http://www.w3.org/2001/XMLSchema" ],
 					    "prefixList" : {
@@ -10610,6 +10619,9 @@ webvowl.app =
 					json = {
 					  "_comment" : "Created with OWL2VOWL (version 0.3.7), http://vowl.visualdataweb.org",
 					  "header" : {
+							"title": {
+								"undefined": "Victim details"
+							},
 					    "languages" : [ "undefined" ],
 					    "baseIris" : [ "http://www.w3.org/2000/01/rdf-schema", "http://www.semanticweb.org/joeri/ontologies/2020/2/GTD-bombings", "http://www.w3.org/2001/XMLSchema" ],
 					    "prefixList" : {
@@ -11628,6 +11640,9 @@ webvowl.app =
 					json = {
 					  "_comment" : "Created with OWL2VOWL (version 0.3.7), http://vowl.visualdataweb.org",
 					  "header" : {
+							"title": {
+								"undefined": "Extended example"
+							},
 					    "languages" : [ "undefined" ],
 					    "baseIris" : [ "http://www.w3.org/2000/01/rdf-schema", "http://www.semanticweb.org/joeri/ontologies/2020/2/GTD-bombings", "http://www.w3.org/2001/XMLSchema" ],
 					    "prefixList" : {
